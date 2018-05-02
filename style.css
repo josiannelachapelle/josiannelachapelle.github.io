@@ -231,3 +231,10 @@ img.right {
   float: right;
 }
 
+.small {
+  font-size: 10px;
+}
+
+.grey {
+  color: dimgrey;
+}
