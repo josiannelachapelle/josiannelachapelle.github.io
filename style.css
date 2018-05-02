@@ -45,6 +45,7 @@ img {
   margin: auto;
   padding: auto;
   width: 100%;
+  max-width: 1000px;
   font-size: 14px;
 }
 
