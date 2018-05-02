@@ -222,3 +222,11 @@ img.right {
   font-family: cursive;
   font-size: 16px;
 }
+
+.float_left {
+  float: left;
+}
+
+.float.right {
+  float: right;
+}
