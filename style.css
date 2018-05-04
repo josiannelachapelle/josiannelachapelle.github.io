@@ -42,22 +42,9 @@ img {
   top: 0; 
   list-style-type: none;
   margin: auto;
-  padding: auto;
+  padding: 0px;
   width: 100%;
   max-width: 1000px;
-  font-size: 14px;
-}
-
-.top_navbar {
-  overflow: hidden;
-  background-color: #E3EAEA;
-  top: 0; 
-  width: 100%;
-  list-style-type: none;
-  margin: auto;
-  padding: auto;
-  width: 100%;
-  font-size: 14px;
 }
 
 li.nav {
@@ -66,15 +53,6 @@ li.nav {
 }
 
 .navbar li a {
-  display: block;
-  color: black;
-  background-color: #E3EAEA;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.top_navbar li a {
   display: block;
   color: black;
   background-color: #E3EAEA;
@@ -92,7 +70,7 @@ li a {
   color: black;
   text-decoration: none;
   font-weight: 100;
-  font-size: 16px;
+  font-size: 2vh;
   font-family: "Merriweather", serif;
 }
 
@@ -141,12 +119,12 @@ li a.active {
 }
 
 div .transbox {
-  font-size: 36px;
+  font-size: 4vh;
   color: black;
   font-weight: 700;
   overflow: hidden;
   white-space: nowrap;
-  padding: 30px;
+  padding: 4vh;
   
 }
 
@@ -220,7 +198,7 @@ img.right {
 
 .logo {
   font-family: cursive;
-  font-size: 16px;
+  font-size: 2vh;
 }
 
 .float_left {
