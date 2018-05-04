@@ -87,7 +87,7 @@ ul.circles {
 }
 
 P {
-  font-size: 16px;
+  font-size: 2vh;
   font-family: "Merriweather", serif;
   color: black;
 }
@@ -128,6 +128,14 @@ div .transbox {
   
 }
 
+.title_centered {
+  position: absolute;
+  text-align: center;
+  bottom: 50%;
+  left: 47.5%;
+  transform: translate(-50%, -50%);
+}
+
 p.standout {
   color: black;
   font-weight: 700;
@@ -156,14 +164,6 @@ p.standout {
   color: black;
 }
 
-.title_centered {
-  position: absolute;
-  text-align: center;
-  top: 25%;
-  left: 47.5%;
-  transform: translate(-50%, -50%);
-}
-
 #mutation, #salt, #sex {
   height: auto;
   max-width: 1500px; 
@@ -179,6 +179,7 @@ h2 a {
 
 p.buffer {
   margin: 10px;
+  font-size: 2vh;
 }
 
 img.right {
@@ -211,7 +212,7 @@ img.right {
 }
 
 .small {
-  font-size: 10px;
+  font-size: 1vh;
 }
 
 .grey {
