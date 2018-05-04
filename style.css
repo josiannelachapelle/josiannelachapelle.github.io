@@ -130,10 +130,10 @@ div .transbox {
 
 .title_centered {
   position: absolute;
-  margin: auto;
-  width: 60%;
+  text-align: center;
   top: 25%;
-  left: 13.5%;
+  left: 47.5%;
+  transform: translate(-50%, -50%);
 }
 
 p.standout {
